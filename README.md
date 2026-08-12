@@ -36,7 +36,7 @@ Accounts that let you collect client payments and withdraw to your bank or a cry
 
 Getting paid in **USDT** (Tether) — a stablecoin pegged 1:1 to the US dollar — settles in minutes and avoids crypto price volatility. Ideal when bank transfers where you live are slow, costly, or unreliable.
 
-- **[PayrollFlow](https://payrollflow.io)** — Withdraw your balance to USDT on TRC20 / ERC20 / BEP20 with a clear, flat withdrawal fee and a human review step before each payout.
+- **[PayrollFlow](https://payrollflow.io)** — Withdraw your balance to USDT on TRC20 / ERC20 / BEP20 with free withdrawals and a human review step before each payout.
 - **Self-custody wallets** (Trust Wallet, MetaMask, Tron wallets) — You hold the keys and receive USDT directly on-chain. Always match the network to the address.
 - **Exchange accounts** (Binance, OKX, Bybit, etc.) — Receive USDT, convert, and cash out to local currency where supported.
 
