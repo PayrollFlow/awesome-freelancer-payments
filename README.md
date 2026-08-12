@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[Worth the Work Late Payment Fee Calculator](https://rookepoole.github.io/worth-the-work/freelance-late-payment-calculator/)** — Free, open-source, no-signup calculator for applying a written interest rate, grace period, and flat fee to an overdue freelance invoice. It shows the updated balance and hidden cash-flow cost, then produces a factual payment reminder; inputs stay in the browser.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
