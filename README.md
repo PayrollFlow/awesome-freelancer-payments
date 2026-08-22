@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[Freelance Payment Reminder Generator](https://adiiprabhu.github.io/freelance-payment-reminder-generator/)** — Browser-only email and WhatsApp reminders for overdue invoices; no login or uploads.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
