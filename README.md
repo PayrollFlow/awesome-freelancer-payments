@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/)** — Browser invoice and receipt generator; print or save as PDF locally with no account. [Commercial white-label pack](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-freelancer-payments-v1) (EUR 249 one-time) adds your logo, colors, six templates, and unlimited batch CLI.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
