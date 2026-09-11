@@ -82,6 +82,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 
 - [USDT Payments Handbook](https://github.com/PayrollFlow/usdt-payments-handbook) — networks, fees, safety, and cashing out
 - [Get Paid Internationally](https://github.com/PayrollFlow/get-paid-internationally) — country-by-country guides for freelancers
+- **[Missed Payment Promise Follow-Up (Remeto)](https://remeto.aifirm.app/learn/missed-payment-promise-follow-up/?source=github&campaign=e01_freelancer_payments)** — Free checklist, three email templates, and a handover worksheet for following up a missed invoice payment promise.
 - [PayrollFlow Use Cases](https://github.com/PayrollFlow/payrollflow-use-cases) — real-world scenarios for freelancers, agencies, and remote teams
 - [PayrollFlow Blog](https://payrollflow.io/blog) — practical articles on getting paid across borders
 
