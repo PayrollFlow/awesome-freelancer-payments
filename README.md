@@ -85,6 +85,19 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 - [PayrollFlow Use Cases](https://github.com/PayrollFlow/payrollflow-use-cases) — real-world scenarios for freelancers, agencies, and remote teams
 - [PayrollFlow Blog](https://payrollflow.io/blog) — practical articles on getting paid across borders
 
+
+## Freelancer Tax & Rate Calculators
+
+Free calculators for self-employed people and independent contractors:
+
+- [1099 vs W-2 Calculator](https://smartbizcalc.com/1099-vs-w2-calculator.html) — compare true cost and take-home pay across employment types
+- [Self-Employment Tax Calculator](https://smartbizcalc.com/self-employment-tax-calculator.html) — calculate SE tax (15.3%) and see the deductible half
+- [Freelancer Hourly Rate Calculator](https://smartbizcalc.com/freelancer-hourly-rate-calculator.html) — set a rate that covers taxes, benefits, and downtime
+- [Quarterly Estimated Tax Calculator](https://smartbizcalc.com/quarterly-estimated-tax-calculator.html) — avoid underpayment penalties with accurate quarterly estimates
+- [S-Corp Tax Savings Calculator](https://smartbizcalc.com/llc-vs-scorp-tax-calculator.html) — see when an S-Corp election saves on SE tax vs staying as a sole proprietor
+
+> All tools are free, no login required. Part of [SmartBizCalc](https://smartbizcalc.com) — 550+ free calculators for small business owners and independent contractors.
+
 ## Contributing
 
 Suggestions welcome — open a pull request or issue to add a tool, method, or resource. Please keep entries accurate and vendor-neutral in description.
