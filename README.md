@@ -84,6 +84,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 - [Get Paid Internationally](https://github.com/PayrollFlow/get-paid-internationally) — country-by-country guides for freelancers
 - [PayrollFlow Use Cases](https://github.com/PayrollFlow/payrollflow-use-cases) — real-world scenarios for freelancers, agencies, and remote teams
 - [PayrollFlow Blog](https://payrollflow.io/blog) — practical articles on getting paid across borders
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
