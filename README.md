@@ -56,6 +56,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 
 ## Invoicing Tools
 
+- **[Client Close Kit](https://github.com/darweesh128-cmd/client-close-kit)** — Bilingual (English/Arabic) WhatsApp client-close captions plus printable invoice and quote HTML templates for freelancers.
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
