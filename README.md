@@ -96,3 +96,5 @@ Suggestions welcome — open a pull request or issue to add a tool, method, or r
 [**PayrollFlow**](https://payrollflow.io) is a payment account for global freelancers and contractors. Receive client payments in USD or EUR and withdraw to **USDT (TRC20 / ERC20 / BEP20)** or a local bank — with a human review step before every payout. **[Get started → app.payrollflow.io](https://app.payrollflow.io)**
 
 _This list is maintained by the PayrollFlow team and community. Entries other than PayrollFlow are independent products and are listed for reference; inclusion is not an endorsement._
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit) — Free browser tools for freelancers (invoice, proposal, timesheet, deposit calculator) — no signup
