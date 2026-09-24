@@ -58,6 +58,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
+- **[Vellum](https://vellum-pai0psnhd-next-gen-ai1.vercel.app)** — Studio OS for independent freelancers: client management, proposals, invoices, and time tracking with one-time pricing.
 
 ## Choosing a Method
 
