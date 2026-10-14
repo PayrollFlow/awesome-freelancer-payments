@@ -39,6 +39,7 @@ Getting paid in **USDT** (Tether) — a stablecoin pegged 1:1 to the US dollar �
 - **[PayrollFlow](https://payrollflow.io)** — Withdraw your balance to USDT on TRC20 / ERC20 / BEP20 with free withdrawals and a human review step before each payout.
 - **Self-custody wallets** (Trust Wallet, MetaMask, Tron wallets) — You hold the keys and receive USDT directly on-chain. Always match the network to the address.
 - **Exchange accounts** (Binance, OKX, Bybit, etc.) — Receive USDT, convert, and cash out to local currency where supported.
+- **[Vaultion](https://vaultion.org/freelance-escrow)** — Non-custodial escrow for freelance work paid in USDT or USDC: the client's payment locks in a smart contract and is released to your wallet when they approve the work or the review period ends.
 
 ## Understanding USDT Networks (TRC20 / ERC20 / BEP20)
 
