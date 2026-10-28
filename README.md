@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample)** — Free Excel/Sheets-style sample with Current / 1–30 / 31–60 / 60+ overdue buckets and EXAMPLE rows (unpaid total $1,620 on the sample set). Hub + more free samples: [freelancer-money-sheets](https://sirmem.github.io/freelancer-money-sheets/).
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
