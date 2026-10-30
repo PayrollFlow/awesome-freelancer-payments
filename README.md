@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[opnaco Invoice](https://opnaco.github.io)** — Open-source, browser-only USDC invoice generator; each invoice link checks the blockchain (Base, Arbitrum, Optimism, Polygon, Ethereum) and shows when the exact payment has arrived.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
