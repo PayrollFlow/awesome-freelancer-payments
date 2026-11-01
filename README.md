@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[GetESAPaid ESA Invoice Generator](https://getesapaid.com/tools/invoice-generator)** — Free browser tool that builds itemized invoices for tutors, therapists and other providers paid through US state education savings account (ESA) programs, with a checklist of fields each program requires.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
