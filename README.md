@@ -58,6 +58,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
+- **[InvoiceGuard](https://github.com/Bilal-Junaid-Jiwani/invoiceguard)** — Payment-enforcement tool for freelancers: generates a contract with a late-fee clause and a Stripe deposit link before work starts, then runs an automated, escalating reminder sequence (email, with optional SMS/WhatsApp) after the due date until the invoice is marked paid. Local-first and open source (Apache-2.0).
 
 ## Choosing a Method
 
