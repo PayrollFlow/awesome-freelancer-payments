@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[UK Late Payment Calculator](https://github.com/wilsonryan-hue/uk-late-payment-calculator)** — Free, open-source (MIT) calculator for UK B2B invoices paid late: works out statutory interest (8% + Bank of England base rate) under the Late Payment of Commercial Debts Act and the £40 / £70 / £100 fixed sum, with the working shown. No tracking.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
