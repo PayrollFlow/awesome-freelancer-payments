@@ -57,6 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
+- **[Invoice USDC Kit](https://quietstack-labs.github.io/invoice-usdc-kit/)** — Open-source, in-browser invoice generator for KRW, USD or USDC on EVM chains, with EIP-681 payment QR codes, tax and deposit/final splits, and PDF/JSON/CSV export.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
