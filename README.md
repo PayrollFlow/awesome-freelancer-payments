@@ -58,6 +58,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
+- **[ScopeForge](https://scopeforge.app/invoice-generator/)** — Free zero-signup invoice, quote, and 152-currency freelancer billing generator with local browser storage (MIT open source).
 
 ## Choosing a Method
 
